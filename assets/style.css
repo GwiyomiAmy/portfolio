@@ -146,18 +146,20 @@ h2 {
    text-align: center;
    width: 70vw;
    position: relative;
-   line-height: 2vw;
+   
 }
 
 @media screen and (min-width:550px) {
    .text {
       font-size: 16px;
+      line-height: 25px;
    }
 }
 
 @media screen and (max-width:550px) {
    .text {
       font-size: 3vw;
+      line-height: 4vw;
    }
 }
 
@@ -241,5 +243,17 @@ h2 {
    font-size: medium;
    text-shadow: .2vw .2vw #0d0d10;
    padding: .2vw;
+}
+
+@media screen and (min-width:550px) {
+   .text1, .text2, .text3, .text4 {
+      font-size: 16px;
+   }
+}
+
+@media screen and (max-width:550px) {
+   .text1, .text2, .text3, .text4  {
+      font-size: 3vw;
+   }
 }
 
