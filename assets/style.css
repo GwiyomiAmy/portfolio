@@ -146,6 +146,7 @@ h2 {
    text-align: center;
    width: 70vw;
    position: relative;
+   line-height: 2vw;
 }
 
 @media screen and (min-width:550px) {
