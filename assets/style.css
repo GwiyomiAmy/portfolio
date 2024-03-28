@@ -8,10 +8,20 @@
 
 }
 
+@font-face {
+   font-family: 'montserratthin';
+   src: url('montserrat-variablefont_wght-webfont.woff2') format('woff2'),
+        url('montserrat-variablefont_wght-webfont.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+
+}
+
 * {
    margin-top: 0;
    position: relative;
-   font-family: Tahoma, Geneva, Verdana, sans-serif;
+   font-family: "montserratthin",Verdana, sans-serif;
+   font-weight: bold;
    background-color: #0d0d10;
    color: white;
 }
