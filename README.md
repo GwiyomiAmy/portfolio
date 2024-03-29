@@ -14,14 +14,13 @@ N/A
 
 The links in the navigation will take you to the different sections of the page. The links under "My Works" will take you to deployed pages of those works. The GitHub link under Contacts will take you to my GitHub pages where more and more projects will be added.
 
- ```md
-    ![Portfolio page](./assets/w3.png)
-    ```
+    ![alt text](assets/sample.png)
 
 ## Credits
 
-For custom fonts: (https://www.fontsquirrel.com)
+
+For custom fonts: (https://fonts.google.com/)
+For custom font woff generator: (https://www.fontsquirrel.com)
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
