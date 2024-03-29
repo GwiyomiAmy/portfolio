@@ -16,6 +16,8 @@ The links in the navigation will take you to the different sections of the page.
 
     ![alt text](assets/sample.png)
 
+Deployed at: https://gwiyomiamy.github.io/portfolio/
+
 ## Credits
 
 
